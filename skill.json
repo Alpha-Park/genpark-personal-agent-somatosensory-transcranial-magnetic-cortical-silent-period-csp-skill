@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-somatosensory-cortical-silent-period-tms-skill",
+  "version": "1.0.0",
+  "description": "Calculates Transcranial Magnetic Stimulation (TMS) Cortical Silent Period Duration (ms), MEP-Normalized Ratio, and evaluates motor cortex GABAB intracortical inhibition.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "neurophysiology",
+    "tms",
+    "motor-cortex",
+    "cortical-silent-period",
+    "gabab",
+    "inhibition",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
